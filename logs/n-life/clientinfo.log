@@ -1,0 +1,121 @@
+2016-05-04 10:43:15 043-[main]-[DEBUG]-[InternalLoggerFactory.debug(Slf4JLogger.java:71)]-Using SLF4J as the default logging framework
+2016-05-04 10:43:15 050-[main]-[DEBUG]-[MultithreadEventLoopGroup.debug(Slf4JLogger.java:76)]--Dio.netty.eventLoopThreads: 8
+2016-05-04 10:43:15 082-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Buffer.address: available
+2016-05-04 10:43:15 083-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe.theUnsafe: available
+2016-05-04 10:43:15 083-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:71)]-sun.misc.Unsafe.copyMemory: available
+2016-05-04 10:43:15 084-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Bits.unaligned: true
+2016-05-04 10:43:15 084-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Platform: Windows
+2016-05-04 10:43:15 085-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-Java version: 7
+2016-05-04 10:43:15 085-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noUnsafe: false
+2016-05-04 10:43:15 085-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe: available
+2016-05-04 10:43:15 085-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noJavassist: false
+2016-05-04 10:43:15 168-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Javassist: available
+2016-05-04 10:43:15 169-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2016-05-04 10:43:15 169-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-05-04 10:43:15 169-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noPreferDirect: false
+2016-05-04 10:43:15 169-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.noKeySetOptimization: false
+2016-05-04 10:43:15 171-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.selectorAutoRebuildThreshold: 512
+2016-05-04 10:43:15 244-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.processId: 9160 (auto-detected)
+2016-05-04 10:43:15 309-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2016-05-04 10:43:15 310-[main]-[DEBUG]-[ThreadLocalRandom.debug(Slf4JLogger.java:71)]--Dio.netty.initialSeedUniquifier: 0x85482d0de17ac3a5 (took 29 ms)
+2016-05-04 10:43:15 336-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numHeapArenas: 4
+2016-05-04 10:43:15 336-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numDirectArenas: 4
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.pageSize: 8192
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxOrder: 11
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.chunkSize: 16777216
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.tinyCacheSize: 512
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.smallCacheSize: 256
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.normalCacheSize: 64
+2016-05-04 10:43:15 337-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2016-05-04 10:43:15 338-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.cacheTrimInterval: 8192
+2016-05-04 10:43:15 342-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.type: pooled
+2016-05-04 10:43:15 343-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.threadLocalDirectBufferSize: 65536
+2016-05-04 10:43:15 353-[main]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2016-05-04 10:43:15 360-[nioEventLoopGroup-0-0]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.com.b_noble.n_life_final.event.NettyMessageMatcher
+2016-05-04 10:43:15 380-[nioEventLoopGroup-0-2]-[DEBUG]-[ResourceLeakDetector.debug(Slf4JLogger.java:81)]--Dio.netty.leakDetectionLevel: simple
+2016-05-04 10:43:15 381-[nioEventLoopGroup-0-2]-[DEBUG]-[Recycler.debug(Slf4JLogger.java:76)]--Dio.netty.recycler.maxCapacity: 262144
+2016-05-04 10:43:15 390-[nioEventLoopGroup-0-2]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:50)]-向服务器发起链接验证
+2016-05-04 10:43:15 393-[nioEventLoopGroup-0-2]-[INFO ]-[SecureUtils.encode(SecureUtils.java:20)]-key:tcbswdbxpbiykplnussjloaimtrsajosrlzkelmuayjwiafgz, mac:rlzkelmuayjwiafgz
+2016-05-04 10:43:15 404-[nioEventLoopGroup-0-2]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:55)]-链接验证成功！！
+2016-05-04 10:47:10 243-[main]-[DEBUG]-[InternalLoggerFactory.debug(Slf4JLogger.java:71)]-Using SLF4J as the default logging framework
+2016-05-04 10:47:10 251-[main]-[DEBUG]-[MultithreadEventLoopGroup.debug(Slf4JLogger.java:76)]--Dio.netty.eventLoopThreads: 8
+2016-05-04 10:47:10 283-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Buffer.address: available
+2016-05-04 10:47:10 283-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe.theUnsafe: available
+2016-05-04 10:47:10 283-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:71)]-sun.misc.Unsafe.copyMemory: available
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Bits.unaligned: true
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Platform: Windows
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-Java version: 7
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noUnsafe: false
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe: available
+2016-05-04 10:47:10 286-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noJavassist: false
+2016-05-04 10:47:10 366-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Javassist: available
+2016-05-04 10:47:10 366-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2016-05-04 10:47:10 366-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-05-04 10:47:10 368-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noPreferDirect: false
+2016-05-04 10:47:10 368-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.noKeySetOptimization: false
+2016-05-04 10:47:10 368-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.selectorAutoRebuildThreshold: 512
+2016-05-04 10:47:17 410-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.processId: 7512 (auto-detected)
+2016-05-04 10:47:17 469-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.machineId: 00:5a:39:ff:fe:e4:74:e2 (auto-detected)
+2016-05-04 10:47:17 474-[main]-[DEBUG]-[ThreadLocalRandom.debug(Slf4JLogger.java:71)]--Dio.netty.initialSeedUniquifier: 0x8f8df7de5423b1a0 (took 25 ms)
+2016-05-04 10:47:17 536-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numHeapArenas: 4
+2016-05-04 10:47:17 536-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numDirectArenas: 4
+2016-05-04 10:47:17 536-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.pageSize: 8192
+2016-05-04 10:47:17 536-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxOrder: 11
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.chunkSize: 16777216
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.tinyCacheSize: 512
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.smallCacheSize: 256
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.normalCacheSize: 64
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2016-05-04 10:47:17 539-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.cacheTrimInterval: 8192
+2016-05-04 10:47:17 549-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.type: pooled
+2016-05-04 10:47:17 551-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.threadLocalDirectBufferSize: 65536
+2016-05-04 10:47:17 581-[main]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2016-05-04 10:47:17 584-[nioEventLoopGroup-0-0]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.com.b_noble.n_life_final.event.NettyMessageMatcher
+2016-05-04 10:47:17 605-[nioEventLoopGroup-0-1]-[DEBUG]-[ResourceLeakDetector.debug(Slf4JLogger.java:81)]--Dio.netty.leakDetectionLevel: simple
+2016-05-04 10:47:17 612-[nioEventLoopGroup-0-1]-[DEBUG]-[Recycler.debug(Slf4JLogger.java:76)]--Dio.netty.recycler.maxCapacity: 262144
+2016-05-04 10:47:17 625-[nioEventLoopGroup-0-1]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:50)]-向服务器发起链接验证
+2016-05-04 10:47:17 627-[nioEventLoopGroup-0-1]-[INFO ]-[SecureUtils.encode(SecureUtils.java:20)]-key:rfzjxzpvnsfnpryqqladugkbmcjzamhwnhjoodfwkdgsabmhn, mac:nhjoodfwkdgsabmhn
+2016-05-04 10:47:17 637-[nioEventLoopGroup-0-1]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:55)]-链接验证成功！！
+2016-05-04 10:48:00 637-[threadDeathWatcher-2-1]-[DEBUG]-[PoolThreadCache.debug(Slf4JLogger.java:81)]-Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-0-1
+2016-05-04 10:48:00 637-[threadDeathWatcher-2-1]-[DEBUG]-[PoolThreadCache.debug(Slf4JLogger.java:81)]-Freed 1 thread-local buffer(s) from thread: nioEventLoopGroup-0-0
+2016-05-04 10:48:16 787-[main]-[DEBUG]-[InternalLoggerFactory.debug(Slf4JLogger.java:71)]-Using SLF4J as the default logging framework
+2016-05-04 10:48:16 795-[main]-[DEBUG]-[MultithreadEventLoopGroup.debug(Slf4JLogger.java:76)]--Dio.netty.eventLoopThreads: 8
+2016-05-04 10:48:16 825-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Buffer.address: available
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe.theUnsafe: available
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:71)]-sun.misc.Unsafe.copyMemory: available
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent0.debug(Slf4JLogger.java:76)]-java.nio.Bits.unaligned: true
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Platform: Windows
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-Java version: 7
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noUnsafe: false
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]-sun.misc.Unsafe: available
+2016-05-04 10:48:16 827-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noJavassist: false
+2016-05-04 10:48:16 909-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:71)]-Javassist: available
+2016-05-04 10:48:16 910-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2016-05-04 10:48:16 910-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-05-04 10:48:16 910-[main]-[DEBUG]-[PlatformDependent.debug(Slf4JLogger.java:76)]--Dio.netty.noPreferDirect: false
+2016-05-04 10:48:16 911-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.noKeySetOptimization: false
+2016-05-04 10:48:16 912-[main]-[DEBUG]-[NioEventLoop.debug(Slf4JLogger.java:76)]--Dio.netty.selectorAutoRebuildThreshold: 512
+2016-05-04 10:48:19 881-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.processId: 4792 (auto-detected)
+2016-05-04 10:48:19 970-[main]-[DEBUG]-[DefaultChannelId.debug(Slf4JLogger.java:76)]--Dio.netty.machineId: 00:5a:39:ff:fe:e4:74:e2 (auto-detected)
+2016-05-04 10:48:19 972-[main]-[DEBUG]-[ThreadLocalRandom.debug(Slf4JLogger.java:71)]--Dio.netty.initialSeedUniquifier: 0x4f70285ab6e6637a (took 28 ms)
+2016-05-04 10:48:20 032-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numHeapArenas: 4
+2016-05-04 10:48:20 035-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.numDirectArenas: 4
+2016-05-04 10:48:20 035-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.pageSize: 8192
+2016-05-04 10:48:20 035-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxOrder: 11
+2016-05-04 10:48:20 035-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.chunkSize: 16777216
+2016-05-04 10:48:20 035-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.tinyCacheSize: 512
+2016-05-04 10:48:20 037-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.smallCacheSize: 256
+2016-05-04 10:48:20 037-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.normalCacheSize: 64
+2016-05-04 10:48:20 037-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2016-05-04 10:48:20 037-[main]-[DEBUG]-[PooledByteBufAllocator.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.cacheTrimInterval: 8192
+2016-05-04 10:48:20 047-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.allocator.type: pooled
+2016-05-04 10:48:20 047-[main]-[DEBUG]-[ByteBufUtil.debug(Slf4JLogger.java:76)]--Dio.netty.threadLocalDirectBufferSize: 65536
+2016-05-04 10:48:20 080-[main]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2016-05-04 10:48:20 080-[nioEventLoopGroup-0-0]-[DEBUG]-[JavassistTypeParameterMatcherGenerator.debug(Slf4JLogger.java:76)]-Generated: io.netty.util.internal.__matchers__.com.b_noble.n_life_final.event.NettyMessageMatcher
+2016-05-04 10:48:20 101-[nioEventLoopGroup-0-1]-[DEBUG]-[ResourceLeakDetector.debug(Slf4JLogger.java:81)]--Dio.netty.leakDetectionLevel: simple
+2016-05-04 10:48:20 111-[nioEventLoopGroup-0-1]-[DEBUG]-[Recycler.debug(Slf4JLogger.java:76)]--Dio.netty.recycler.maxCapacity: 262144
+2016-05-04 10:48:20 121-[nioEventLoopGroup-0-1]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:50)]-向服务器发起链接验证
+2016-05-04 10:48:20 123-[nioEventLoopGroup-0-1]-[INFO ]-[SecureUtils.encode(SecureUtils.java:20)]-key:hszknpkjvuhfizcyfkknhmauopdasdxpwbdystcyerttybsdb, mac:wbdystcyerttybsdb
+2016-05-04 10:48:20 141-[nioEventLoopGroup-0-2]-[INFO ]-[LoginAuthReqHandler.channelRead(LoginAuthReqHandler.java:55)]-链接验证成功！！
+2016-05-04 10:49:10 138-[threadDeathWatcher-2-1]-[DEBUG]-[PoolThreadCache.debug(Slf4JLogger.java:81)]-Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-0-1
+2016-05-04 10:49:10 138-[threadDeathWatcher-2-1]-[DEBUG]-[PoolThreadCache.debug(Slf4JLogger.java:81)]-Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-0-2
